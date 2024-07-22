@@ -1,1 +1,4 @@
-message: ABC
+my:
+  greeting: Hello World from config server
+  list:
+    values: One, Two, Three, Four
